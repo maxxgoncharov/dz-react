@@ -1,0 +1,21 @@
+.heading {
+
+    width: 588;
+    height: 144;
+    top: 160px;
+    left: 120px;
+    gap: 16px;
+    opacity: 1;
+
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 80px;
+    letter-spacing: -2%;
+
+    color: #EBEEF5;
+
+}
+
+
+
